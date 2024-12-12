@@ -1,0 +1,4 @@
+./out1.txt
+esiste ma ora ... 
+ls: ./out1.txt: No such file or directory
+

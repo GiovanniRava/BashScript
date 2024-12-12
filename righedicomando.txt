@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo ciao
+echo ${BASHPID}
+ls /proc/${BASHPID}/fd/
+sleep 10
