@@ -1,0 +1,6 @@
+Questa  è   una*    riga di testo con     un asterisco
+Anche  la seconda  riga*  contiene   almeno sette    parole
+La  terza    riga contiene* un numero adeguato   di parole
+Nella   quarta* riga inserisco altre parole con   tabulazioni
+Infine  la quinta    riga ha   pure* almeno sette  parole   distinte
+
