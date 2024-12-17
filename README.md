@@ -1,1 +1,1 @@
-My script made during studyiing for Sistemi Operativi.
+My script made during studying for Sistemi Operativi.
